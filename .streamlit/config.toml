@@ -1,0 +1,27 @@
+[server]
+address = "127.0.0.1"
+fileWatcherType = "auto"
+
+[theme]
+base = "light"
+primaryColor = "#6848E8"
+backgroundColor = "#F5F2FF"
+secondaryBackgroundColor = "#E8F3F0"
+textColor = "#20233A"
+font = "sans serif"
+borderColor = "#D9D4EC"
+linkColor = "#5638CF"
+blueColor = "#5266D8"
+violetColor = "#6848E8"
+greenColor = "#16A085"
+orangeColor = "#D88636"
+yellowColor = "#FFB547"
+
+[theme.sidebar]
+backgroundColor = "#153D45"
+secondaryBackgroundColor = "#202847"
+textColor = "#F7F5FF"
+primaryColor = "#FFB547"
+
+[browser]
+gatherUsageStats = false
